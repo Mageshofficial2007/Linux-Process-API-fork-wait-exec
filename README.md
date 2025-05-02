@@ -44,6 +44,7 @@ int main() {
     }
 }
 
+
 ##OUTPUT
 ![](img/forkckeck.png)
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -90,7 +91,10 @@ int main() {
     return 0;
 }
 
+
 ##OUTPUT
+
 ![](img/exitwait.png)
+
 # RESULT:
 The programs are executed successfully.
